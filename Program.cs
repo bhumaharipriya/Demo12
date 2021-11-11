@@ -7,6 +7,7 @@ namespace Demo2
         static void Main(string[] args)
         {
             Console.WriteLine("Hell its me");
+            Console.WriteLine("Apples");
         }
     }
 }
